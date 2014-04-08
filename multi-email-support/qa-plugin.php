@@ -26,15 +26,15 @@
 
 /*
 	Plugin Name: Multi-Email Support
-	Plugin URI: 
+	Plugin URI: http://github.com/atavakoli/qa-multi-email-support
 	Plugin Description: Permit multiple emails to be configured for notification
 	Plugin Version: 1.0.0
 	Plugin Date: 2014-04-08
 	Plugin Author: Ali Tavakoli
-	Plugin Author URI: http://www.question2answer.org/
+	Plugin Author URI: http://github.com/atavakoli/
 	Plugin License: GPLv2
 	Plugin Minimum Question2Answer Version: 1.6
-	Plugin Update Check URI: 
+	Plugin Update Check URI: https://raw.githubusercontent.com/atavakoli/qa-multi-email-support/master/multi-email-support/qa-plugin.php
 */
 
 
